@@ -1,0 +1,9 @@
+deploy:
+  provider: openshift
+  user: developer
+  password:
+    secure: uY1bnhh2zwVR9I0S51t3DyL32YiRQFKUWqM+TIeNr8LUaW7w0BtWmgWzF/gsnTy/216EkKCeX06s/UNQenFGXo75BGsy0bnSgMN0qZP0s9yg6hVg0fQcj572ntrLPXrzAxGa9VtXLAvLEp/mgE3t+FrsI4lkb86zLk3SaFjrwM+FchNKhqzCe/36z0e/zpmc4HbroY2iUeBfpgxjbTYsxBip7vq351zW3928+/U+60w5h4GGMqGgfKGrbeY0t/RYWEVEiEBNZyOssFPkYGH5Z7VFfg0UArSZVG4cmOEDJ5Ur5We297cg/vVpSXErkfPRhDSh5NfU00CKXk5PBBug898QSHsAE1g+Y7wHy92SaKUXX3A+MVf56QcKY8rSJgW6YfgFSt75/BFqNTo4PEEKRxJ8XWTvUogm/T/v2m0xJX4eHqh6fb7a8vewXd6OUqUqCuefVQhnw9QEbsB6PJ0vNHwwbEdM6bMRGXjuqXm5H2rF2Uw1GEp500vp45ZOOg15jW35fK4orpPrUlJakCuxNZ0sK2NUNlbuzJVEda7f0ya6CfMisfcwBvDsPovWy7pX2Sai562uXvdmXEMO95jBwUR6v5jms2qp+Iinw5l4w4e+sUylaKP2rwD2P7o/vgQzpXxNTAePnx3c0U3xxSdU8d8KedUVMUeTszOmPoOtkIY=
+  app: openshift-travisci
+  domain: https://127.0.0.1:8443
+  on:
+    repo: JullyAnneM/openshift-travisci
