@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JullyAnneM/openshift-travisci.git"
+    "url": "git+https://github.com/JullyAnneM/heroku-travisci.git"
   },
   "dependencies": {},
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JullyAnneM/openshift-travisci/issues"
+    "url": "https://github.com/JullyAnneM/heroku-travisci/issues"
   },
-  "homepage": "https://github.com/JullyAnneM/openshift-travisci#readme"
+  "homepage": "https://github.com/JullyAnneM/heroku-travisci#readme"
 }
