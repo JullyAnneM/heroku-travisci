@@ -10,9 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/JullyAnneM/openshift-travisci.git"
   },
-  "dependencies": {
-    "body-parser": "^1.15.0"
-  }
+  "dependencies": {},
   "author": "",
   "license": "ISC",
   "bugs": {
