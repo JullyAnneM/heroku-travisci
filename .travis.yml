@@ -2,6 +2,9 @@ language: node_js
 node_js:
  - "node"
 
+install:
+  - npm install
+
 stages:
 - name: Test & QA
 - name: Deploy
